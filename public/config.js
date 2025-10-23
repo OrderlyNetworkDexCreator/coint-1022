@@ -18,7 +18,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_HAS_PRIMARY_LOGO": "true",
   "VITE_HAS_SECONDARY_LOGO": "false",
   "VITE_ENABLED_MENUS": "Trading,Swap,Leaderboard,Portfolio,Rewards,Markets,Vaults",
-  "VITE_CUSTOM_MENUS": "",
+  "VITE_CUSTOM_MENUS": "Telegram, https://t.me/CointSwap_Official; Discord, https://discord.gg/coint; Twitter, https://twitter.com/CointSwap",
   "VITE_ENABLE_CAMPAIGNS": "false",
   "VITE_TELEGRAM_URL": "https://t.me/CointSwap_Official",
   "VITE_DISCORD_URL": "https://discord.gg/coint",
