@@ -25,7 +25,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_TWITTER_URL": "https://twitter.com/CointSwap",
   "VITE_SEO_SITE_NAME": "Coint",
   "VITE_SEO_SITE_DESCRIPTION": "Step into the world of Coint DEX, where decentralized trading is made easy, secure, and accessible. Join us in revolutionizing the way you trade digital assets.",
-  "VITE_SEO_SITE_URL": "https://dex.orderly.network/coint-1022/",
+  "VITE_SEO_SITE_URL": "https://dex.coint.xyz",
   "VITE_SEO_SITE_LANGUAGE": "en",
   "VITE_SEO_SITE_LOCALE": "en_US",
   "VITE_SEO_TWITTER_HANDLE": "@CointSwap",
